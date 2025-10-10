@@ -8,12 +8,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Ronan Alo
+title                    : Ronan Alo Portfolio
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Ronan Alo
 description              : Ronan Alo - Projects and CV 
 baseurl                  : "/fa25-portfolio-RonanA67"
+url                      : "https://cornell-mae-ug.github.io"
 
 
 # Theme and Style
