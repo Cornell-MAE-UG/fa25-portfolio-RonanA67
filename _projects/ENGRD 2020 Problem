@@ -1,3 +1,10 @@
+---
+layout: project
+title: ENGRD 2020 Actuator Problem
+description: Just an actuator-involved mechanism that I designed
+technologies: [SolidWorks, Machining]
+image: /assets/images/spaceship-design.jpg
+---
 For a Statics class  assigment,  had to solve the following: 
 
 Given a 2D design space of 150cm long and 50cm tall, a rigid bar of a fixed length (your
