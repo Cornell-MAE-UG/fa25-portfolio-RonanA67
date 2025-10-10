@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ronan ALo
+title: Ronan Alo
 ---
 
 ## About Me
